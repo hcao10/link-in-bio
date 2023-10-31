@@ -70,6 +70,5 @@ social:
 highlight_name: true
 ---
 
-Haowei(Howard) Cao is a Ph.D. candidate in Computer Science at the University of Houston, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. He has excelled academically, earning multiple Summa Cum Laude honors and Dean’s List recognitions. His research work is robust, with contributions to projects like Topic-based Indexing and innovative approaches in Super-resolution Image Technology. Haowei has co-authored a paper under review for the IEEE 17th Pacific Visualization Symposium.
-
+Haowei(Howard) Cao is a Ph.D. candidate in Computer Science at the University of Houston, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. His research work is robust, with contributions to projects like Topic-based Indexing and innovative approaches in Super-resolution Image Technology. Haowei has co-authored a paper under review for the IEEE 17th Pacific Visualization Symposium.
 {style="text-align: justify; font-size: 0.8em;"}
