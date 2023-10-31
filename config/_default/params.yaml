@@ -32,7 +32,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. Made on earth by a human'
+    notice: '© {year} CHW. Made on earth by a human'
 
 # Localization
 locale:
