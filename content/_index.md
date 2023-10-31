@@ -22,4 +22,20 @@ sections:
         - title: Connect with me on LinkedIn
           icon: linkedin
           url: https://www.linkedin.com/in/haowei-cao
+- block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Feel free to get in touch using the contact information provided below. I am always open to communication and would be happy to hear from you should you have any inquiries or need assistance. Your messages are always welcome, and I will do my best to respond promptly.
+      # Contact (add or remove contact options as necessary)
+      email: pfa6v5u0 AT duck DOT com
+      appointment_url: 'https://calendly.com/haoweicao'
+      office_hours:
+        - 'Tuesday 09:30 to 10:30'
+        - 'Thursday 09:30 to 10:30'
+      autolink: false
+    design:
+      columns: '2'
 ---
