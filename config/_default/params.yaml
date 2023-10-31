@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+title: Hi! This is Haowei # Website name
+baseURL: 'https://chw.chwjh.com/' # Website URL
+
 # Appearance
 appearance:
   theme_default: light
@@ -13,8 +16,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo link in bio theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Haowei(Howard) Cao is a Ph.D. candidate in Computer Science .'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,7 +33,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me'
+    notice: '© {year} Me. Made on earth by a human'
 
 # Localization
 locale:
