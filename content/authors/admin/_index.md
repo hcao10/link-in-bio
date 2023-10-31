@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 曹灝偉
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Cao Hao Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: HaoWei
+last_name: Cao
 
 # Status emoji
 status:
@@ -17,12 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Houston
+    url: https:///www.uh.edu/
+
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include data analytics, image processing, visualization, artificial intelligence.
+
+
+# Interests to show in About widget
+interests:
+  - Data Analytics
+  - Image Processing
+  - Visualization
+  - Artificial Intelligence
+
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: University of Houston
+      year: Present
+    - course: BSc in Computer Science, Minor in Mathematics
+      institution: University of Tennessee-Knoxville
+      year: 2020
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
