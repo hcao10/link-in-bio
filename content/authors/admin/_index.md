@@ -50,21 +50,26 @@ education:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
-  - icon: send
-    link: 'mailto:your-email@example.com'
-  - icon: twitter
-    link: https://twitter.com/wowchemy
-    label: Follow me on Twitter
-  - icon: google-scholar
-    link: https://scholar.google.com/citations?user=mG4imMEAAAAJ
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/hcao10
   - icon: linkedin
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+    icon_pack: fab
+    link: https://www.linkedin.com/in/haowei-cao
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
   - icon: cv
+    icon_pack: ai
     link: uploads/resume.pdf
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Haowei(Howard) Cao is a Ph.D. candidate in Computer Science at the University of Houston, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. He has excelled academically, earning multiple Summa Cum Laude honors and Dean’s List recognitions. His research work is robust, with contributions to projects like Topic-based Indexing and innovative approaches in Super-resolution Image Technology. Haowei has co-authored a paper under review for the IEEE 17th Pacific Visualization Symposium.
+
 {style="text-align: justify; font-size: 0.8em;"}
