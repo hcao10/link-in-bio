@@ -1,0 +1,9 @@
+<div class="site-footer__fineprint">
+    {{ with .Site.Params.footer.extra }}
+      {{ . | safeHTML }}
+      <br>
+    {{ end }}
+    {{- printf "Test" -}}
+    <a href="https://chw.chwjh.com" target="_blank" rel="noopener" class="site-footer__link">{{- printf "Welcome!" -}}</a>
+  </div>
+  
