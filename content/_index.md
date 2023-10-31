@@ -8,13 +8,11 @@ design:
     image:
       # Add your image background to `assets/media/`.
       filename: bg-hue.svg
-
+      
 sections:
-  - block: about.biography
-    id: about
+  - block: about.avatar
     content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # The user's folder name in content/authors/
       username: admin
   - block: buttons
     content:
