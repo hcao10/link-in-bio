@@ -10,10 +10,8 @@ design:
       filename: bg-hue.svg
 
 sections:
-  - block: about.biography
-  id: about
+  - block: about.avatar
     content:
-      title: Biography
       # The user's folder name in content/authors/
       username: admin
   - block: buttons
