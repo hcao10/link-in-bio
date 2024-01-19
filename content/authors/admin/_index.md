@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 曹灝偉
+title: 曹灏伟
 
 # Name pronunciation (optional)
 name_pronunciation: Cao Hao Wei
@@ -40,9 +40,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+      - course: MS in Electrical and Computer Engineering
+      institution: Johns Hopkins University
+      year: 2023
     - course: PhD in Computer Science
       institution: University of Houston
-      year: Present
+      year: 2023
     - course: BSc in Computer Science, Minor in Mathematics
       institution: University of Tennessee-Knoxville
       year: 2020
@@ -70,5 +73,5 @@ social:
 highlight_name: true
 ---
 
-Haowei(Howard) Cao is a Ph.D. candidate in Computer Science at the University of Houston, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. His research work is robust, with contributions to projects like Topic-based Indexing. Haowei has co-authored a paper under review for the IEEE 17th Pacific Visualization Symposium.
+Haowei(Howard) Cao is a Master of Science candidate in Electrical and Computer Engineering at Johns Hopkins University. His prior studies at the University of Houston centered on Ph.D.-level research in Computer Science, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. His research work is robust, with contributions to projects like Topic-based Indexing. Haowei has co-authored a paper under revision for the IEEE 17th Pacific Visualization Symposium.
 {style="text-align: justify; font-size: 0.8em;"}
