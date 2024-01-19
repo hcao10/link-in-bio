@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSE Student in Electrical and Computer Engineering at 
+role: MSE Student in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
