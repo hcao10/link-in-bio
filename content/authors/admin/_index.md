@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Science
+role: MSE Student in Electrical and Computer Engineering at 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Houston
-    url: https:///www.uh.edu/
+  - name: Johns Hopkins University
+    url: https://jhu.edu/
 
 
 # Short bio (displayed in user profile at end of posts)
