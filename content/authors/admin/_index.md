@@ -42,7 +42,7 @@ education:
   courses:
     - course: MS in Electrical and Computer Engineering
       institution: Johns Hopkins University
-      year: 2023
+      year: 2024
     - course: PhD in Computer Science
       institution: University of Houston
       year: 2023
