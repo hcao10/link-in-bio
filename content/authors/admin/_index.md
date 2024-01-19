@@ -40,7 +40,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-      - course: MS in Electrical and Computer Engineering
+    - course: MS in Electrical and Computer Engineering
       institution: Johns Hopkins University
       year: 2023
     - course: PhD in Computer Science
