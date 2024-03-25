@@ -73,5 +73,5 @@ social:
 highlight_name: true
 ---
 
-Haowei(Howard) Cao is a Master of Science candidate in Electrical and Computer Engineering at Johns Hopkins University. His prior studies at the University of Houston centered on Ph.D.-level research in Computer Science, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. His research work is robust, with contributions to projects like Topic-based Indexing, and Hexahedral Mesh Structure Visualization and Evaluation. Haowei has co-authored a paper for the IEEE 17th Pacific Visualization Symposium.
+Master of Science candidate in Electrical and Computer Engineering at Johns Hopkins University. My prior studies at the University of Houston centered on Ph.D.-level research in Computer Science, showcasing a strong background in data analytics, image processing, visualization, and artificial intelligence. My research work is robust, with contributions to projects like Topic-based Indexing, and Hexahedral Mesh Structure Visualization and Evaluation. I have co-authored a paper for the IEEE Transactions on Visualization and Computer Graphics(TVCG).
 {style="text-align: justify; font-size: 0.8em;"}
